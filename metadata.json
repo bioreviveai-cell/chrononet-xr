@@ -1,0 +1,6 @@
+{
+  "name": "ChronoNet XR",
+  "description": "Spatial computing laboratory combining WebXR 3D human aging interactome visualization with network medicine research task monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
